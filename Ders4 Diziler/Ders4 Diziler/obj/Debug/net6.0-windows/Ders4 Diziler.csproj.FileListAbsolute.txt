@@ -1,0 +1,17 @@
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\bin\Debug\net6.0-windows\Ders4 Diziler.exe
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\bin\Debug\net6.0-windows\Ders4 Diziler.deps.json
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\bin\Debug\net6.0-windows\Ders4 Diziler.runtimeconfig.json
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\bin\Debug\net6.0-windows\Ders4 Diziler.dll
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\bin\Debug\net6.0-windows\Ders4 Diziler.pdb
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\Ders4 Diziler.csproj.AssemblyReference.cache
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\Ders4_Diziler.Form1.resources
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\Ders4 Diziler.csproj.GenerateResource.cache
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\Ders4 Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\Ders4 Diziler.AssemblyInfoInputs.cache
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\Ders4 Diziler.AssemblyInfo.cs
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\Ders4 Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\Ders4 Diziler.dll
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\refint\Ders4 Diziler.dll
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\Ders4 Diziler.pdb
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\Ders4 Diziler.genruntimeconfig.cache
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders4 Diziler\Ders4 Diziler\obj\Debug\net6.0-windows\ref\Ders4 Diziler.dll
