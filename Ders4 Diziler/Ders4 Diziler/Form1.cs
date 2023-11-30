@@ -7,6 +7,7 @@
             InitializeComponent();
         }
         int[] sayilar = new int[4];
+        string[] kelimeler = new string[2];
         private void Form1_Load(object sender, EventArgs e)
         {
             // lblelemanlar.Text = sayilar[1].ToString();
@@ -14,6 +15,8 @@
             sayilar[2] = 5;
             sayilar[1] = 6;
             sayilar[0] = 78;
+            kelimeler[0] = "youtube dersleri";
+            kelimeler[1] = "Abone ol:)";
             //lblelemanlar.Text=  sayilar[sayilar.Length - 1].ToString();
             sayilar[sayilar.Length - 1] = 45;
             lblelemanlar.Text = sayilar[sayilar.Length - 1].ToString();
